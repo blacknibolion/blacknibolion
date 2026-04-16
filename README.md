@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a Sci-fi Game<br>I'm looking to collaborate on any open game that's fun and unique<br>I'm currently learning Unreal Engine and Web development using Nodejs<br>I love video games and cooking a lot<br>pronouns: he/him<br>contact me at onibodebest@gmail,com
+I'm currently working on a Sci-fi Game<br>I'm looking to collaborate on any open game that's fun and unique<br>I'm currently learning Unreal Engine and Web development using Dotnet<br>I love video games and cooking a lot<br>pronouns: he/him<br>contact me at onibodebest@gmail,com
 
 
 ## 🌐 Socials:
